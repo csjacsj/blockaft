@@ -1,6 +1,6 @@
 {
-  "engineVersion": "5.1.7",
-  "compilerVersion": "5.1.7",
+  "engineVersion": "5.1.11",
+  "compilerVersion": "5.1.11",
   "template": {},
   "target": {
     "current": "web"
@@ -17,6 +17,9 @@
     },
     {
       "name": "assetsmanager"
+    },
+    {
+      "name": "eui"
     },
     {
       "name": "promise"
