@@ -13,3 +13,7 @@
 egret run
 ~~~
 更多命令，输入egret参考
+
+## 参考
+- [Egret Wing实战教程(一)：从按钮说起](http://bbs.egret.com/thread-1878-1-1.html)
+- [Html5 Egret游戏开发 成语大挑战（五）界面切换和数据处理](https://www.cnblogs.com/nowpaper/p/5154207.html)
